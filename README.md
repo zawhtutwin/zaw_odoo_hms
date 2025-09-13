@@ -1,0 +1,1 @@
+# technortal_odoo_technical_trainging_online_course_batch_1
