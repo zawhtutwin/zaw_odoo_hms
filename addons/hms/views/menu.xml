@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <menuitem id="menu_hms_root" name="HMS"/>
+
+    <menuitem id="menu_hms_rooms" name="Rooms"
+              parent="menu_hms_root"
+              action="action_hms_rooms"/>
+
+    <menuitem id="menu_hms_hotels" name="Hotels"
+              parent="menu_hms_root"
+              action="action_hms_hotels"/>
+
+</odoo>
